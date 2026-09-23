@@ -6,6 +6,6 @@ Token,Name,Service,Time,Status,Delay Reason
 1005,charan,Mobile Phone Repair / Support,23-09-2026 02:20 PM,Completed,
 1006,swathi,Warranty / Extended Protection Plan,23-09-2026 02:21 PM,Completed,
 1007,ramesh,"Billing, Exchange, or Delivery Support",23-09-2026 02:21 PM,Completed,
-1008,anusha,Laptop / Computer Support,23-09-2026 02:22 PM,Serving,
-1009,krishna,Washing Machine Repair,23-09-2026 02:22 PM,Waiting,
-1010,srikanth,Product Demo / Setup Assistance,23-09-2026 02:23 PM,Waiting,
+1008,anusha,Laptop / Computer Support,23-09-2026 02:22 PM,Service Delayed,incomplete
+1009,krishna,Washing Machine Repair,23-09-2026 02:22 PM,Completed,
+1010,srikanth,Product Demo / Setup Assistance,23-09-2026 02:23 PM,Service Delayed,incomplete
